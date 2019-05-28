@@ -1,0 +1,61 @@
+/* CSS file of index 2805.html */
+
+h1   {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    color: darkgray;
+    margin-left: 40px;
+    margin-top: 16px;
+   
+
+}
+
+body  {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: darkgray;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: 25px;
+    text-align: justify;
+    background-image: url("tenor.gif");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 5%;
+}
+
+#lessons,th,{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: darkgray;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding: 18px;
+    border: 2px solid;
+    margin-left: 250px;
+    margin-top: 20px;
+    border: 20px;
+    border-color: darkgray;
+    width: 40%
+
+}
+
+#lessons, td, tr  {
+    
+    border: 15px darkgray;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 15px;
+    padding: 10px;
+    border: 1px solid;
+
+}
+
+#lessons tr:nth-child(even){background-color: #f2f2f2;}
